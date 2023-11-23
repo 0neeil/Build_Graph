@@ -1,0 +1,30 @@
+.error_message{
+    background-color: rgba(255, 0, 0, 0.3);
+    border-radius: 10px;
+    padding-top: 12px;
+    border: 2px solid red;
+    font-weight: bold;
+}
+
+.card{
+    border: 2px solid #559c64f6;
+}
+
+.nav_link{
+    color: #559c64f6;
+    text-decoration: none;
+}
+
+.nav_link:hover{
+    color: #1d3021f6;
+}
+
+.input{
+    border: 2px solid #559c64f6;
+}
+
+.input:focus{
+    border: 2px solid #559c64f6;
+    box-shadow: 0 0 5px #173a1ef6;
+    outline: none;
+}
